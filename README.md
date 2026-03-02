@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![GitHub Snake Animation](https://github.com/<your-username>/<your-repo>/blob/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
