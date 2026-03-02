@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/finkmf12/finkmf12/blob/output/github-snake-white.svg)
+![snake gif](https://github.com/finkmf12/finkmf12/blob/output/github-snake-dark.svg)
