@@ -43,7 +43,7 @@ jobs:
 
       # Step 1: Checkout the repository
 
-      - name: Checkout Repository
+      - name: finkmf12
 
         uses: actions/checkout@v3
 
