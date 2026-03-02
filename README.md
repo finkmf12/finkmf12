@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/finkmf12/finkmf12/blob/output/github-snake-dark.svg)
