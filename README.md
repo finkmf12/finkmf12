@@ -11,6 +11,11 @@
                
   <a href="slowroads.io">      Chilling Game!! Have Fun </a>
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=finkmf12.finkmf12&left_color=crimson"  />
+</div>
+
+###
 
 ###
 
