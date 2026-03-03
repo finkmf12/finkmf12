@@ -1,23 +1,52 @@
-## Hi there 👋
-
-
-**finkmf12/finkmf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently: working on e-commerce
-- 🌱 I’m currently learning: Software Analysis and Development
-- 📫 How to reach me: with my gmail: yurisenai1234@gmail.com/ whatsapp: 47 9132 3720
-- ⚡ Fun fact: im literally trying to complete my learning only with english language. if possible.
- ##
- 
-<div> 
-  <a href="https://instagram.com/yuridonega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/visage047" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yurisenai1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋 Olá 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me / Sobre Mim</h3>
+
+###
+
+<p align="left">I'm ... from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ In my free time i always try to stay home, chilling / No meu tempo livre eu estou sempre em casa, descansando ⚡ </p>
+
+###
+
+<h3 align="left">🛠 Language and tools🛠</h3>
+
+###
+
+JAVA AND JAVA SCRIPT
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 
