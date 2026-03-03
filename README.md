@@ -21,23 +21,23 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me / Sobre Mim</h3>
+<h3 align="center">👩‍💻  About Me / Sobre Mim</h3>
 
 ###
 
-<p align="left">I'm ... from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ In my free time i always try to stay home, chilling / No meu tempo livre eu estou sempre em casa, descansando ⚡ </p>
+<p align="center">I'm ... from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ In my free time i always try to stay home, chilling / No meu tempo livre eu estou sempre em casa, descansando ⚡ </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools🛠</h3>
+<h3 align="center">🛠 Language and tools🛠</h3>
 
 ###
 
-JAVA AND JAVA SCRIPT
+<h3 align="center"> JAVA AND JAVA SCRIPT </h3>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
