@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">I'm ... from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ In my free time i always try to stay home, chilling / No meu tempo livre eu estou sempre em casa, descansando ⚡ </p>
+<p align="center">I'm from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ In my free time i always try to stay home, chilling / No meu tempo livre eu estou sempre em casa, descansando ⚡ </p>
 
 ###
 
