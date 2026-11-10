@@ -1,66 +1,84 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:06b6d4&height=180&section=header&text=Yuri%20Donegá&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20construção%20%7C%20ADS&descAlignY=60&descSize=16" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Yuri!+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo%2C+criando+e+evoluindo+um+commit+por+vez." alt="Texto animado de apresentação" />
+
+  <br />
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Animação de pessoa programando" />
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-               
-  <a href="slowroads.io">      Chilling Game!! Have Fun </a>
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=finkmf12.finkmf12&left_color=crimson"  />
-</div>
+## 👨‍💻 Sobre mim
 
-###
+Sou brasileiro e estudante de **Análise e Desenvolvimento de Sistemas (ADS) no SENAI**. Estou no começo da minha jornada na programação, transformando curiosidade em projetos e aprendendo algo novo a cada desafio.
 
-###
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- ☕ Atualmente estudando **Java**, lógica de programação e orientação a objetos
+- 🌐 Explorando desenvolvimento web com **HTML, CSS e JavaScript**
+- 🗄️ Aprendendo modelagem de dados e **SQL**
+- 🧪 Gosto de experimentar ideias e construir projetos que resolvam problemas reais
+- 🚀 Objetivo: evoluir como desenvolvedor e conquistar novas oportunidades na área de tecnologia
 
-
-###
-
-<h1 align="center">Hey there 👋 Olá 👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me / Sobre Mim</h3>
-
-###
-
-<p align="center">I'm from Brazil / Sou do Brasil<br><br>- 🔭 I’m working with E-commerce / trabalhando com E-Commerce<br>- 📚 I'm currently learning Java / Aprendendo Java<br>- ⚡ im always trying to stay home, chilling / No meu tempo livre tento ficar em casa, descansando ⚡ </p>
-
-###
-
-<h3 align="center">🛠 Language and tools🛠</h3>
-
-###
-
-<h3 align="center"> JAVA AND JAVA SCRIPT </h3>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
+## 🧰 Tecnologias e ferramentas
 
 <div align="center">
-  
 
-  <img src="https://streak-stats.demolab.com?user=finkmf12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,arduino" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finkmf12&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## 🚀 Projetos em destaque
 
+<div align="center">
 
+  <a href="https://github.com/finkmf12/Visage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=finkmf12&repo=Visage&theme=tokyonight&hide_border=true" alt="Projeto Visage - Academia RPG" />
+  </a>
 
-![snake gif](https://github.com/finkmf12/finkmf12/blob/output/github-snake-dark.svg)
+</div>
+
+**Academia RPG** — projeto em desenvolvimento que transforma os estudos em uma experiência inspirada em RPG, com evolução, desafios e funcionalidades para estudantes.
+
+## 📊 GitHub em números
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=finkmf12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finkmf12&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=finkmf12&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
+
+## 🐍 Minha atividade no GitHub
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finkmf12/finkmf12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/finkmf12/finkmf12/output/github-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo minhas contribuições" src="https://raw.githubusercontent.com/finkmf12/finkmf12/output/github-snake-dark.svg" />
+  </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+  **“Todo especialista já foi um iniciante que não desistiu.”**
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=finkmf12&style=for-the-badge&color=6366f1&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
+
+  <br /><br />
+
+  <sub>Feito com dedicação por Yuri Donegá · Brasil 🇧🇷</sub>
+
+</div>
